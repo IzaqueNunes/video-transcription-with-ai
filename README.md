@@ -3,7 +3,7 @@
 ## 
 
 ### Interface
-<img src="./Capturar.PNG">
+<img src="./Capturar.PNG" widh=100vh>
 
 ### ℹ Sobre
 ##
