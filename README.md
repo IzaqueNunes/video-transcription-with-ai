@@ -22,6 +22,8 @@ Projeto de uma interface que transcreve tópicos e resumos a partir de um vídeo
 - [Shadcn/ui](https://ui.shadcn.com/)
 
 - [Tailwind CSS](https://tailwindcss.com/docs/installation)
+
+- [Vite](https://vitejs.dev/guide/)
  
 ### 🛳 Uso
 ##
