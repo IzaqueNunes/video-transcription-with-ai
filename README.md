@@ -25,7 +25,7 @@ Projeto de uma interface que transcreve tópicos e resumos a partir de um vídeo
 
 - [Vite](https://vitejs.dev/guide/)
  
-### 🛳 Uso
+### 🟩 Uso
 ##
 <img src="./para-linkedin.gif">
 
