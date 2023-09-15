@@ -3,7 +3,7 @@
 ## 
 
 ### Interface
-<img src="./Capturar.PNG" width="300px" height="600px">
+<img src="./Capturar.PNG">
 
 ### ℹ Sobre
 ##
