@@ -27,7 +27,7 @@ Projeto de uma interface que transcreve tópicos e resumos a partir de um vídeo
  
 ### 🛳 Uso
 ##
-<img src="./src/assets/Navegação.gif">
+<img src="./para-linkedin.gif">
 
 ### 👩‍💻 Como contribuir
 #### 1. Clone o repositório do projeto
