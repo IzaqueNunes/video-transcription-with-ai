@@ -7,7 +7,7 @@
 
 ### ℹ Sobre
 ##
-Projeto de uma interface que transcreve tópicos e resumos a partir de um vídeo. 👩‍💻
+Projeto de uma interface que transcreve tópicos e resumos a partir de um vídeo. 
 ### ⛏ Ferramentas
 ##
 
